@@ -28,7 +28,7 @@ export default function Home() {
         </a>
       </div>
       <div className="mt-5">
-        <Card className="w-[400px]">
+        <Card className="w-[400px] max-sm:w-[350px]">
           <CardHeader>
             <CardTitle className="flex justify-start items-center gap-2">
               <span className="relative flex h-3 w-3">
